@@ -1,4 +1,9 @@
-# Signal Clone (With React Native using Expo)
+# Acad Chat(With React Native using Expo)
+
+
+Excess the web version of this app  on 
+
+https://acad-chat.web.app/
 
 ## To start
 1) Run **yarn** or **npm install** to install all neccessary dependancies

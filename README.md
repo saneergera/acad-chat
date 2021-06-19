@@ -12,11 +12,11 @@ https://acad-chat.web.app/
 
 *Enjoy the build!*
 
-![Signal Clone with React Native and Expo](images/1.png?raw=true "Signal Clone with React Native and Expo")
+![Signal Clone with React Native and Expo](images/1.PNG?raw=true "Signal Clone with React Native and Expo")
 ![Signal Clone with React Native and Expo](images/2.png?raw=true "Signal Clone with React Native and Expo")
-![Signal Clone with React Native and Expo](images/3.png?raw=true "Signal Clone with React Native and Expo")
+![Signal Clone with React Native and Expo](images/3.PNG?raw=true "Signal Clone with React Native and Expo")
 ![Signal Clone with React Native and Expo](images/4.png?raw=true "Signal Clone with React Native and Expo")
-![Signal Clone with React Native and Expo](images/5.png?raw=true "Signal Clone with React Native and Expo")
+![Signal Clone with React Native and Expo](images/5.PNG?raw=true "Signal Clone with React Native and Expo")
 ![Signal Clone with React Native and Expo](images/6.png?raw=true "Signal Clone with React Native and Expo")
 
 *
